@@ -1,2 +1,2 @@
 # stevenAlgorithm
-Algortihms 
+Algorthims 
